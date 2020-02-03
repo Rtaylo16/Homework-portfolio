@@ -3,6 +3,13 @@
     background-size: cover;
 }
 
-.nav{
-    background-color: papayawhip;
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(93, 104, 109);
+    color: white;
+    text-align: center;
+    padding: 2px 0px 2px 0px;
 }
